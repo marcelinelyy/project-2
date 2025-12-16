@@ -7,6 +7,7 @@
 
 ## Установка: 
 pip install beautifulsoup4 requests
+
 python parse_vk_cases.py
 
 ## Как работает код? 
